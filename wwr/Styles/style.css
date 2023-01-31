@@ -7,7 +7,7 @@
     height: 725px;
 }
 body {
-    background-color: cyan; 
+    background-color: rgba(0, 255, 255, 0.707); 
 }
 header {
     background-color:rgba(20,30,13, .7);
